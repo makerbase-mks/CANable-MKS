@@ -21,9 +21,11 @@ MKS CANable test video. [Click here](https://www.youtube.com/watch?v=6MChPbeG6D0
 
 ## Hardware
 **MKS CANable V1.0 module.** You can view the schematic diagram, layout, size and relevant component specifications of MKS CANable.
-MKS CANable hardware.[Click here](https://github.com/makerbase-mks/CANable-MKS/tree/main/02_Makerbase%20CANable%20related%20documents/MKS%20CANable%20V1.0%20002).
+MKS CANable hardware.[Click here](https://github.com/makerbase-mks/CANable-MKS/tree/main/Hardware/MKS%20CANable-V1.0).
 
-**MKS CANable Pro V1.0 module.** You can view the schematic diagram, layout, size and relevant component specifications of MKS CANable Pro.[Click here](https://github.com/makerbase-mks/CANable-MKS/tree/main/02_Makerbase%20CANable%20related%20documents/MKS%20CANable%20Pro%20V1.0%20002)
+**MKS CANable Pro V1.0 module.** You can view the schematic diagram, layout, size and relevant component specifications of MKS CANable Pro.[Click here](https://github.com/makerbase-mks/CANable-MKS/tree/main/Hardware/MKS%20CANable%20Pro-V1.0)
+
+**MKS CANable V2.0 module.** You can view the schematic diagram, layout, size and relevant component specifications of MKS CANable Pro.[Click here](https://github.com/makerbase-mks/CANable-MKS/tree/main/Hardware/MKS%20CANable%20V2.0)
 
 ## Firmware
 You can view and burn their firmware.[Click here.](https://github.com/makerbase-mks/CANable-MKS/tree/main/03_Makerbase%20CANable%20related%20components)
